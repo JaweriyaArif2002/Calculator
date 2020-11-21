@@ -1,0 +1,11 @@
+body{
+    background-color: aqua;
+}
+.wrap{
+    width: 400px;
+    margin: auto;
+    height: auto;
+    background-color: black;
+    padding: 15px;
+}
+.input
